@@ -1,4 +1,4 @@
-let ul = document.getElementById("band");  
+let ul = document.getElementById("list");  
 
 const bands = [
     'The Plot in You', 'The Devil Wears Prada', 'Pierce the Veil', 'Norma Jean', 'The Bled',
